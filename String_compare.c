@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>int main(){    char st1[100],st2[100],result;    gets(st1);    gets(st2);    result=strcmp(st1,st2);    if(result>0)        puts(st2);    if(result<0)        puts(st1); return 0;}

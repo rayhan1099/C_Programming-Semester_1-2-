@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617717099 source:g:\c programming\icpc\b\untitled1.c
+
+1617719059 source:g:\c programming\icpc\b\main.c
+	<stdio.h>
+	<stdlib.h>
+
